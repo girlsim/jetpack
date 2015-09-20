@@ -1,0 +1,12 @@
+TODO for a0.1:
+- tilesets for start room and screen room
+- Escher screen
+- implement room changes
+- implement stairs??
+- implement dialogue
+- graphics for dialogue
+- custom font??
+
+- player death
+- monster death
+- monster attacks
